@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caxambudaniel&show_icons=true&locale=en" alt="caxambudaniel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caxambudaniel&" alt="caxambudaniel" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=caxambudaniel&" alt="caxambudaniel" /></p>
