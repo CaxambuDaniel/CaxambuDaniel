@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything!! no matter what, i'm glad if i can help**
 
-- 📫 How to reach me **daniel_caxambu@live.com**
+- 📫 reach me in **daniel_caxambu@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
