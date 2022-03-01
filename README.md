@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [some projects related of my learning as a Android developer](https://github.com/CaxambuDaniel/Projetos_Android)
 
-- 🌱 I’m currently learning **about SQL ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="40" height="40" align: bottom />  Big query for now to be more specific), App creation using android studio (java and Kotlin) and java framework spring**
+- 🌱 I’m currently learning **about SQL ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="40" height="40" align= bottom />  Big query for now to be more specific), App creation using android studio (java and Kotlin) and java framework spring**
 
 - 💬 Ask me about **Anything!! no matter what, i'm glad if i can help**
 
