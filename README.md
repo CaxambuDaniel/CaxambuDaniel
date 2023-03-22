@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel </h1>
 <h3 align="center">Python Developer and Passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[seu_username]&label=Profile%20views&color=0e75b6&style=flat" alt="[seu_username]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caxambudaniel&label=Profile%20views&color=0e75b6&style=flat" alt="caxambudaniel" /> </p>
 
 - 🔭 I’m currently working on [some Python projects](https://github.com/CaxambuDaniel/Projetos_Python)
 - 🌱 Learning and expanding my knowledge in **Python**, **Web Development**, **Data Analysis**, and more
