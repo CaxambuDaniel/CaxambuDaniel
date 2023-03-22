@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caxambudaniel&label=Profile%20views&color=0e75b6&style=flat" alt="caxambudaniel" /> </p>
 
-- 🔭 I’m currently working on [some projects related of my job as a Data Analyst](https://github.com/CaxambuDaniel/Portifolio_DataAnalist) and [improving my skills in Python Language](https://github.com/CaxambuDaniel/Projetos_Python)
+- 🔭 I’m currently working on [some Python projects](https://github.com/CaxambuDaniel/Projetos_Python)
 
 - 🌱 learning **about SQL** ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="40" height="40" align= middle />    Big query for now to be more specific).
 
