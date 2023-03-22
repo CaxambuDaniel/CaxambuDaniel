@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caxambudaniel&label=Profile%20views&color=0e75b6&style=flat" alt="caxambudaniel" /> </p>
 
-- 🔭 I’m currently working on [some Python projects](https://github.com/CaxambuDaniel/Projetos_Python)
+- 🔭 I’m currently working on some [Python projects](https://github.com/CaxambuDaniel/Projetos_Python)
 - 🌱 Learning and expanding my knowledge in **Python**, **Web Development**, **Data Analysis**, and more
 - 👨‍💻 Experienced in **Python**, **Django**, **Flask**, **Pandas**, and other Python libraries and frameworks
 - 💬 Ask me about **Python development**, **Web Development**, or anything else you're curious about
