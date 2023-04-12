@@ -14,6 +14,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-carvalho-de-souza-a32886118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-carvalho-de-souza" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_caxambu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_caxambu" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Daniel%20Caxambu%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="daniel_caxambu" height="30" width="40" /></a>  
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
