@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caxambudaniel&label=Profile%20views&color=0e75b6&style=flat" alt="caxambudaniel" /> </p>
 
-🔭 Atualmente, estou trabalhando em alguns projetos Python
-🌱 Aprendendo e expandindo meu conhecimento em Python, Desenvolvimento Web, Análise de Dados e mais
-👨‍💻 Experiência em Python, Django, Flask, Pandas e outras bibliotecas e frameworks Python
+- 🔭 Atualmente, estou trabalhando em alguns projetos Python
+- 🌱 Aprendendo e expandindo meu conhecimento em Python, Desenvolvimento Web, Análise de Dados e mais
+- 👨‍💻 Experiência em Python, Django, Flask, Pandas e outras bibliotecas e frameworks Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
